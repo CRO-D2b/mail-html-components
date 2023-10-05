@@ -357,7 +357,7 @@
 
 ### Calugas Vertical 1 (descuento arriba)
 
-![caluga vertical 1 capture](caluga-horizontal/vertical1.png)
+![caluga vertical 1 capture](calugas-vertical/vertical1.png)
 
 <details>
 
@@ -458,7 +458,7 @@
 
 ### Calugas Vertical 2 (descuento abajo)
 
-![caluga vertical 2 capture](caluga-horizontal/vertical2.png)
+![caluga vertical 2 capture](calugas-vertical/vertical2.png)
 
 <details>
 
@@ -558,7 +558,7 @@
 
 ### Escalonado 1
 
-![caluga escalonado 1 capture](caluga-horizontal/escalonado1.png)
+![caluga escalonado 1 capture](escalonado/escalonado1.png)
 
 <details>
 
@@ -604,7 +604,7 @@
 
 ### Escalonado 2
 
-![caluga escalonado 2 capture](caluga-horizontal/escalonado2.png)
+![caluga escalonado 2 capture](escalonado/escalonado2.png)
 
 <details>
 
@@ -650,7 +650,7 @@
 
 ### Escalonado 3
 
-![caluga escalonado 3 capture](caluga-horizontal/escalonado3.png)
+![caluga escalonado 3 capture](escalonado/escalonado3.png)
 
 <details>
 
@@ -696,7 +696,7 @@
 
 ### 2 Fotos
 
-![2 fotos capture](caluga-horizontal/2fotos.png)
+![2 fotos capture](foto/2fotos.png)
 
 <details>
 
@@ -745,7 +745,7 @@
 
 ### 1 Foto
 
-![1 fotos capture](caluga-horizontal/1fotos.png)
+![1 fotos capture](foto/1fotos.png)
 
 <details>
 
@@ -779,7 +779,7 @@
 
 ### Caluga Teaser 1
 
-![caluga teaser 1 capture](caluga-horizontal/teaser1.png)
+![caluga teaser 1 capture](teaser/teaser1.png)
 
 <details>
 
@@ -813,7 +813,7 @@
 
 ### Caluga Teaser 2
 
-![caluga teaser 1 capture](caluga-horizontal/teaser2.png)
+![caluga teaser 1 capture](teaser/teaser2.png)
 
 <details>
 
