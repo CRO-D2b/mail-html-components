@@ -787,12 +787,27 @@
 
 ```
 <div align="center" style="padding:12px 0;">
-  <div align="left" style="max-width:600px;margin:auto;">
-    <a style="text-decoration:none;"
-      href="https://google.com"
-      target="_blank">
-      <img src="https://mcusercontent.com/1a7220d170a89802d9ea34c08/images/e99aaba5-d398-10c2-e928-3e464c505b79.png" alt="" style="width:100% !important;">
-    </a>
+  <div align="left"
+    style="border:3px solid #26DA04;max-width:600px;margin:auto;border-radius:6px;padding:8px;overflow:hidden;display:flex">
+    <table>
+      <tbody>
+        <tr>
+          <td valign="top" style="width:8%;padding:12px 4px;">
+            <span style="font-size:28px;font-weight:bold;color:#fff;background:#26DA04;border-radius:50%;padding:2px 10px;">1</span>
+          </td>
+          <td valign="top" style="width:70%;padding:12px 4px;">
+            <p style="color:#671E75;font-size:22px;line-height:1"><span style="color:#26DA04">¡</span>Prepara tus
+              tarjetas del
+              <b>Banco de Chile</b><span style="color:#26DA04">!</span> Tienes
+              <b>10<span style="color:#26DA04">%</span> de DCTO.</b> adicional este domingo
+            </p>
+          </td>
+          <td style="width:22%;padding:0 2px;" align="center">
+            <img style="width:100%;min-width:80px;" src="https://mcusercontent.com/1a7220d170a89802d9ea34c08/images/88b82b5d-21f8-e0e6-afbe-c8e7ae8a6a33.png" alt="Tarjetas del Banco de Chile">
+          </td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </div>
 
@@ -820,55 +835,56 @@
 <summary>Code</summary>
 
 ```
-<div align="center"
-  style="margin:auto;padding:12px;max-width:600px;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;">
-  <table style="width:100%;height:100%;">
-    <tbody>
-      <tr>
-        <td style="width:50%;padding-right:6px;">
-          <div style="padding:8px;border-radius:8px;overflow:hidden;border:3px solid #26DE00;height:100%;">
-            <table style="width:100%">
-              <tr>
-                <td valign='top' style="width:25%">
-                  <span style="font-size:28px;font-weight:bold;color:#fff;background:#26DA04;border-radius:50%;padding:2px 10px;">2</span>
-                </td>
-                <td align="center" style="width:50%;padding-top:12px">
-                  <img style="width:100%;max-width:70px;max-height:70px;min-width:32px;;" src="https://mcusercontent.com/1a7220d170a89802d9ea34c08/images/2641552c-1aa7-91f0-7006-6adc1aa53a22.png" alt="¡Aprovecha este súper dcto!">
-                </td>
-                <td style="width:25%">
-                </td>
-              </tr>
-            </table>
-            
-            <p style="color:#671E75;font-size:22px;line-height:1;text-align:center;">
-              Destinos <b>con hasta 77<span style="color:#26DA04">%</span> de descuento.</b>
-            </p>
-          </div>
-        </td>
+<div align="center" style="padding:12px 0;">
+  <div align="center" style="margin:auto;max-width:600px;">
+    <table style="width:100%;height:100%;">
+      <tbody>
+        <tr>
+          <td style="width:50%;padding-right:6px;">
+            <div style="padding:8px;border-radius:8px;overflow:hidden;border:3px solid #26DE00;height:100%;">
+              <table style="width:100%">
+                <tr>
+                  <td valign='top' style="width:25%">
+                    <span style="font-size:28px;font-weight:bold;color:#fff;background:#26DA04;border-radius:50%;padding:2px 10px;">2</span>
+                  </td>
+                  <td align="center" style="width:50%;padding-top:12px">
+                    <img style="width:100%;max-width:70px;max-height:70px;min-width:32px;;" src="https://mcusercontent.com/1a7220d170a89802d9ea34c08/images/2641552c-1aa7-91f0-7006-6adc1aa53a22.png" alt="¡Aprovecha este súper dcto!">
+                  </td>
+                  <td style="width:25%">
+                  </td>
+                </tr>
+              </table>
 
-        <td style="width:50%;padding-left:6px;">
-          <div style="padding:8px;border-radius:8px;overflow:hidden;border:3px solid #26DE00;height:100%;">
-            <table style="width:100%">
-              <tr>
-                <td valign='top' style="width:25%">
-                  <span style="font-size:28px;font-weight:bold;color:#fff;background:#26DA04;border-radius:50%;padding:2px 10px;">2</span>
-                </td>
-                <td align="center" style="width:50%;padding-top:12px">
-                  <img style="width:100%;max-width:70px;max-height:70px;min-width:32px;;" src="https://mcusercontent.com/1a7220d170a89802d9ea34c08/images/22151236-a812-1848-d86b-29d0187a3ff9.png" alt="¡Aprovecha este súper dcto!">
-                </td>
-                <td style="width:25%">
-                </td>
-              </tr>
-            </table>
+              <p style="color:#671E75;font-size:22px;line-height:1;text-align:center;">
+                Destinos <b>con hasta 77<span style="color:#26DA04">%</span> de descuento.</b>
+              </p>
+            </div>
+          </td>
 
-            <p style="color:#671E75;font-size:22px;line-height:1;text-align:center;">
-              ¡Se vienen sorpresas<br>en la caja misteriosa <br>del <b>SKY Box!</b>
-            </p>
-          </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+          <td style="width:50%;padding-left:6px;">
+            <div style="padding:8px;border-radius:8px;overflow:hidden;border:3px solid #26DE00;height:100%;">
+              <table style="width:100%">
+                <tr>
+                  <td valign='top' style="width:25%">
+                    <span style="font-size:28px;font-weight:bold;color:#fff;background:#26DA04;border-radius:50%;padding:2px 10px;">2</span>
+                  </td>
+                  <td align="center" style="width:50%;padding-top:12px">
+                    <img style="width:100%;max-width:70px;max-height:70px;min-width:32px;;" src="https://mcusercontent.com/1a7220d170a89802d9ea34c08/images/22151236-a812-1848-d86b-29d0187a3ff9.png" alt="¡Aprovecha este súper dcto!">
+                  </td>
+                  <td style="width:25%">
+                  </td>
+                </tr>
+              </table>
+
+              <p style="color:#671E75;font-size:22px;line-height:1;text-align:center;">
+                ¡Se vienen sorpresas<br>en la caja misteriosa <br>del <b>SKY Box!</b>
+              </p>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </div>
 
 <style>
