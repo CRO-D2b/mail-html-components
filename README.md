@@ -1,4 +1,4 @@
-# mail-html-components
+# Componentes para mail
 
 ### Alojamiento caluga
 
