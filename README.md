@@ -745,7 +745,7 @@
 
 ### 1 Foto
 
-![1 fotos capture](foto/1fotos.png)
+![1 fotos capture](foto/1foto.png)
 
 <details>
 
