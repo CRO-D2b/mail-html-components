@@ -365,79 +365,87 @@
 
 ```
 <div align="center" style="padding:12px 0;">
-  <div align="left" style="max-width:600px;margin:auto;display:flex;">
-    <div style="padding-right:6px;width:50%;">
-      <a style="text-decoration:none;" target="_blank" href="https://google.com">
-        <div style="border:2px solid #671E75;border-radius:8px;overflow:hidden;height:100% !important;">
-          <div title="Vuela por Arequipa"
-            style="background-image:url(https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/57a1c34e-2f82-c707-cf49-5785e5050d54.png);background-position:center center;background-size:cover;height:140px !important;">
-            <p style="margin:0;text-align:end;color:#fff;font-size:16px;font-weight:bold;">
-              <span style="padding:2px 6px;background-color:#EA3397;border-radius:3px;">29% OFF</span>
-            </p>
-          </div>
+  <div align="center" style="margin:auto;max-width:600px;">
+    <table style="width:100%;height:100%;">
+      <tbody>
+        <tr>
+          <td style="width:50%;padding-right:6px;">
+            <a style="text-decoration:none;display:block;height:100% !important;" target="_blank" href="https://google.com">
+              <div style="border:2px solid #671E75;border-radius:8px;overflow:hidden;height:100% !important;">
+                <div title="Vuela por Arequipa"
+                  style="background-image:url(https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/57a1c34e-2f82-c707-cf49-5785e5050d54.png);background-position:center center;background-size:cover;height:140px !important;">
+                  <p style="margin:0;text-align:end;color:#fff;font-size:16px;font-weight:bold;">
+                    <span style="padding:2px 6px;background-color:#EA3397;border-radius:3px;">29% OFF</span>
+                  </p>
+                </div>
 
-          <div style="padding:12px;background:linear-gradient(0deg, #6F2B7A, #411367);background-color:#531364;">
-            <h2 style="color:#fff;font-size:28px;font-style:italic;min-height:50px;padding-bottom:12px;">Vuela por
-              universos internacionales paralelos
-            </h2>
-            <p style="color:#26DE00;font-size:18px;margin:0;">Precio de lanzamiento</p>
-            <p style="color:#fff;font-size:14px;">Desde</p>
-            <h3 style="color:#FFF;font-size:28px;color:#fff;font-weight:bold;">
-              <span style="color:#26DE00;font-size:18px;font-weight:normal;">$</span>144.440
-            </h3>
+                <div style="padding:12px;background:linear-gradient(0deg, #6F2B7A, #411367);background-color:#531364;">
+                  <h2 style="color:#fff;font-size:28px;font-style:italic;min-height:50px;padding-bottom:12px;">Vuela por
+                    universos internacionales paralelos
+                  </h2>
+                  <p style="color:#26DE00;font-size:18px;margin:0;">Precio de lanzamiento</p>
+                  <p style="color:#fff;font-size:14px;">Desde</p>
+                  <h3 style="color:#FFF;font-size:28px;color:#fff;font-weight:bold;">
+                    <span style="color:#26DE00;font-size:18px;font-weight:normal;">$</span>144.440
+                  </h3>
 
-            <table style="width:100%;">
-              <tbody>
-                <tr>
-                  <td>
-                    <span style="font-size:12px;color:#fff;font-weight:bold;">Final por tramo, tasas incluidas</span>
-                  </td>
-                  <td align="right">
-                    <img style="width:100%;min-width:20px;max-width:30px;" src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/05b8e8b6-235b-1d61-6861-a93b9c492507.png" alt="">
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div style="padding-left:6px;width:50%;">
-      <a style="text-decoration:none;" target="_blank" href="https://google.com">
-        <div style="border:2px solid #671E75;border-radius:8px;overflow:hidden;height:100% !important;">
-          <div title="Vuela por Arequipa"
-            style="background-image:url(https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/57a1c34e-2f82-c707-cf49-5785e5050d54.png);background-position:center center;background-size:cover;height:140px !important;">
-            <p style="margin:0;text-align:end;color:#fff;font-size:16px;font-weight:bold;">
-              <span style="padding:2px 6px;background-color:#EA3397;border-radius:3px;">29% OFF</span>
-            </p>
-          </div>
+                  <table style="width:100%;">
+                    <tbody>
+                      <tr>
+                        <td>
+                          <span style="font-size:12px;color:#fff;font-weight:bold;">Final por tramo, tasas incluidas</span>
+                        </td>
+                        <td align="right">
+                          <img style="width:100%;min-width:20px;max-width:30px;" src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/05b8e8b6-235b-1d61-6861-a93b9c492507.png" alt="">
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </a>
+          </td>
 
-          <div style="padding:12px;">
-            <h2 style="color:#671E75;font-size:28px;font-style:italic;min-height:50px;padding-bottom:12px;">Santiago
-              de Chile
-            </h2>
-            <p style="color:#26DE00;font-size:18px;margin:0;">Precio de lanzamiento</p>
-            <p style="color:#a6a6a6;font-size:14px;">Desde</p>
-            <h3 style="color:#FFF;font-size:28px;color:#671E75;font-weight:bold;">
-              <span style="color:#26DE00;font-size:18px;font-weight:normal;">$</span>144.440
-            </h3>
+          <td style="width:50%;padding-left:6px;">
+            <a style="text-decoration:none;display:block;height:100% !important;" target="_blank" href="https://google.com">
+              <div style="border:2px solid #671E75;border-radius:8px;overflow:hidden;height:100% !important;">
+                <div title="Vuela por Arequipa"
+                  style="background-image:url(https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/57a1c34e-2f82-c707-cf49-5785e5050d54.png);background-position:center center;background-size:cover;height:140px !important;">
+                  <p style="margin:0;text-align:end;color:#fff;font-size:16px;font-weight:bold;">
+                    <span style="padding:2px 6px;background-color:#EA3397;border-radius:3px;">29% OFF</span>
+                  </p>
+                </div>
 
-            <table style="width:100%;">
-              <tbody>
-                <tr>
-                  <td>
-                    <span style="font-size:12px;color:#a6a6a6;font-weight:bold;">Final por tramo, tasas incluidas</span>
-                  </td>
-                  <td align="right">
-                    <img style="width:100%;min-width:20px;max-width:30px;" src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/05b8e8b6-235b-1d61-6861-a93b9c492507.png" alt="">
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-      </a>
-    </div>
+                <div style="padding:12px;">
+                  <h2 style="color:#671E75;font-size:28px;font-style:italic;min-height:50px;padding-bottom:12px;">
+                    Santiago
+                    de Chile
+                  </h2>
+                  <p style="color:#26DE00;font-size:18px;margin:0;">Precio de lanzamiento</p>
+                  <p style="color:#a6a6a6;font-size:14px;">Desde</p>
+                  <h3 style="color:#FFF;font-size:28px;color:#671E75;font-weight:bold;">
+                    <span style="color:#26DE00;font-size:18px;font-weight:normal;">$</span>144.440
+                  </h3>
+
+                  <table style="width:100%;">
+                    <tbody>
+                      <tr>
+                        <td>
+                          <span style="font-size:12px;color:#a6a6a6;font-weight:bold;">Final por tramo, tasas incluidas</span>
+                        </td>
+                        <td align="right">
+                          <img style="width:100%;min-width:20px;max-width:30px;" src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/05b8e8b6-235b-1d61-6861-a93b9c492507.png" alt="">
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </div>
 
@@ -466,78 +474,88 @@
 
 ```
 <div align="center" style="padding:12px 0;">
-  <div align="left" style="max-width:600px;margin:auto;display:flex;">
-    <div style="width:50%;padding-right:6px;">
-      <a style="text-decoration:none;" target="_blank" href="https://google.com">
-        <div
-          style="border:2px solid #671E75;border-radius:8px;overflow:hidden;background:linear-gradient(0deg, #6F2B7A, #411367 50%);background-color:#531364;height:100% !important;">
-          <img src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/57a1c34e-2f82-c707-cf49-5785e5050d54.png" style="object-fit:cover;height:140px !important;width:100% !important;" alt="Vuela por Arequipa">
+  <div align="center" style="margin:auto;max-width:600px;">
+    <table style="width:100%;height:100%;">
+      <tbody>
+        <tr>
+          <td style="width:50%;padding-right:6px;">
+            <a style="text-decoration:none;" target="_blank" href="https://google.com">
+              <div
+                style="border:2px solid #671E75;border-radius:8px;overflow:hidden;background:linear-gradient(0deg, #6F2B7A, #411367 50%);background-color:#531364;height:100% !important;">
+                <img src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/57a1c34e-2f82-c707-cf49-5785e5050d54.png" style="object-fit:cover;height:140px !important;width:100% !important;" alt="Vuela por Arequipa">
 
-          <p style="margin:0;text-align:end;color:#fff;font-size:16px;font-weight:bold;">
-            <span style="padding:2px 6px;background-color:#EA3397;border-radius:3px;">29% OFF</span>
-          </p>
+                <p style="margin:0;text-align:end;color:#fff;font-size:16px;font-weight:bold;">
+                  <span style="padding:2px 6px;background-color:#EA3397;border-radius:3px;">29% OFF</span>
+                </p>
 
-          <div style="padding:12px;">
-            <h2 style="color:#fff;font-size:28px;font-style:italic;min-height:50px;padding-bottom:12px;">Vuela por
-              un mundo paralelo
-            </h2>
-            <p style="color:#26DE00;font-size:18px;margin:0;">Precio de lanzamiento</p>
-            <p style="color:#fff;font-size:14px;">Desde</p>
-            <h3 style="color:#FFF;font-size:28px;color:#fff;font-weight:bold;">
-              <span style="color:#26DE00;font-size:18px;font-weight:normal;">$</span>144.440
-            </h3>
+                <div style="padding:12px;">
+                  <h2 style="color:#fff;font-size:28px;font-style:italic;min-height:50px;padding-bottom:12px;">Vuela por
+                    un mundo paralelo
+                  </h2>
+                  <p style="color:#26DE00;font-size:18px;margin:0;">Precio de lanzamiento</p>
+                  <p style="color:#fff;font-size:14px;">Desde</p>
+                  <h3 style="color:#FFF;font-size:28px;color:#fff;font-weight:bold;">
+                    <span style="color:#26DE00;font-size:18px;font-weight:normal;">$</span>144.440
+                  </h3>
 
-            <table style="width:100%;">
-              <tbody>
-                <tr>
-                  <td>
-                    <span style="font-size:12px;color:#fff;font-weight:bold;">Final por tramo, tasas incluidas</span>
-                  </td>
-                  <td align="right">
-                    <img style="width:100%;min-width:20px;max-width:30px;" src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/05b8e8b6-235b-1d61-6861-a93b9c492507.png" alt="">
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div style="width:50%;padding-left:6px;">
-      <a style="text-decoration:none;" target="_blank" href="https://google.com">
-        <div style="border:2px solid #671E75;border-radius:8px;overflow:hidden;background:#fff;height:100% !important;">
-          <img src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/57a1c34e-2f82-c707-cf49-5785e5050d54.png" style="object-fit:cover;height:140px !important;width:100% !important;" alt="Vuela por Arequipa">
+                  <table style="width:100%;">
+                    <tbody>
+                      <tr>
+                        <td>
+                          <span style="font-size:12px;color:#fff;font-weight:bold;">Final por tramo, tasas incluidas</span>
+                        </td>
+                        <td align="right">
+                          <img style="width:100%;min-width:20px;max-width:30px;" src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/05b8e8b6-235b-1d61-6861-a93b9c492507.png" alt="">
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </a>
+          </td>
 
-          <p style="margin:0;text-align:end;color:#fff;font-size:16px;font-weight:bold;">
-            <span style="padding:2px 6px;background-color:#EA3397;border-radius:3px;">29% OFF</span>
-          </p>
+          <td style="width:50%;padding-left:6px;">
+            <a style="text-decoration:none;display:block;height:100% !important;" target="_blank"
+              href="https://google.com">
+              <div
+                style="border:2px solid #671E75;border-radius:8px;overflow:hidden;background:#fff;height:100% !important;">
+                <img src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/57a1c34e-2f82-c707-cf49-5785e5050d54.png" style="object-fit:cover;height:140px !important;width:100% !important;" alt="Vuela por Arequipa">
 
-          <div style="padding:12px;">
-            <h2 style="color:#671E75;font-size:28px;font-style:italic;min-height:50px;padding-bottom:12px;">Santiago
-              de Chile
-            </h2>
-            <p style="color:#26DE00;font-size:18px;margin:0;">Precio de lanzamiento</p>
-            <p style="color:#a6a6a6;font-size:14px;">Desde</p>
-            <h3 style="color:#FFF;font-size:28px;color:#671E75;font-weight:bold;">
-              <span style="color:#26DE00;font-size:18px;font-weight:normal;">$</span>144.440
-            </h3>
+                <p style="margin:0;text-align:end;color:#fff;font-size:16px;font-weight:bold;">
+                  <span style="padding:2px 6px;background-color:#EA3397;border-radius:3px;">29% OFF</span>
+                </p>
 
-            <table style="width:100%;">
-              <tbody>
-                <tr>
-                  <td>
-                    <span style="font-size:12px;color:#a6a6a6;font-weight:bold;">Final por tramo, tasas incluidas</span>
-                  </td>
-                  <td align="right">
-                    <img style="width:100%;min-width:20px;max-width:30px;" src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/05b8e8b6-235b-1d61-6861-a93b9c492507.png" alt="">
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-      </a>
-    </div>
+                <div style="padding:12px;">
+                  <h2 style="color:#671E75;font-size:28px;font-style:italic;min-height:50px;padding-bottom:12px;">
+                    Santiago
+                    de Chile
+                  </h2>
+                  <p style="color:#26DE00;font-size:18px;margin:0;">Precio de lanzamiento</p>
+                  <p style="color:#a6a6a6;font-size:14px;">Desde</p>
+                  <h3 style="color:#FFF;font-size:28px;color:#671E75;font-weight:bold;">
+                    <span style="color:#26DE00;font-size:18px;font-weight:normal;">$</span>144.440
+                  </h3>
+
+                  <table style="width:100%;">
+                    <tbody>
+                      <tr>
+                        <td>
+                          <span style="font-size:12px;color:#a6a6a6;font-weight:bold;">Final por tramo, tasas incluidas</span>
+                        </td>
+                        <td align="right">
+                          <img style="width:100%;min-width:20px;max-width:30px;" src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/05b8e8b6-235b-1d61-6861-a93b9c492507.png" alt="">
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </div>
 
