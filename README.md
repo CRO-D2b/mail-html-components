@@ -5,8 +5,10 @@
 ![alojamientos capture](alojamientos/alojamiento-caluga.png)
 
 <details>
+
 <summary>Code</summary>
-```html
+
+```
 <div align="center" style="padding:12px 0;">
   <a style="text-decoration:none;" target="_blank" href="https://google.com">
     <div align="left"
@@ -58,6 +60,7 @@
   }
 </style>
 ```
+
 </details>
 
 ### Caluga horizontal 1
@@ -65,8 +68,10 @@
 ![caluga horizontal 1 capture](caluga-horizontal/horizontal1.png)
 
 <details>
+
 <summary>Code</summary>
-```html
+
+```
 <div align="center" style="padding:12px 0;">
   <a style="text-decoration:none;" target="_blank" href="https://google.com">
     <div align="left"
@@ -117,4 +122,5 @@
   }
 </style>
 ```
+
 </details>
