@@ -574,6 +574,86 @@
 
 </details>
 
+### Calugas Vertical 3 (con CTA)
+
+![caluga vertical 3 capture](calugas-vertical/vertical3.png)
+
+<details>
+
+<summary>Code</summary>
+
+```
+<div align="center" style="padding:12px 0;">
+  <div align="center" style="margin:auto;max-width:600px;">
+    <table style="width:100%;height:100%;">
+      <tbody>
+        <tr>
+          <td style="width:50%;padding-right:6px;">
+            <div style="border:2px solid #671E75;border-radius:8px;overflow:hidden;background:#fff;height:100% !important;">
+              <img src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/57a1c34e-2f82-c707-cf49-5785e5050d54.png" style="object-fit:cover;height:140px !important;width:100% !important;" alt="Vuela por Arequipa">
+
+              <div align="center" style="padding:20px 8px;">
+                <h2 style="color:#781878;font-size:28px;padding-bottom:20px;">Florianópolis
+                </h2>
+                <table>
+                  <tbody><tr>
+                    <td>
+                      <a class="btn" style="display:block;text-decoration:none!important;font-size:16px!important;font-weight:bold!important;padding:16px 24px!important;color:#fff!important;background-color:#EA3397!important;border-radius:8px!important;" href="https://www.google.com/" target="_blank">¡Ver vuelos!</a>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </div>
+            </div>
+          </td>
+
+          <td style="width:50%;padding-left:6px;">
+            <div style="border:2px solid #671E75;border-radius:8px;overflow:hidden;background:#fff;height:100% !important;">
+              <img src="https://mcusercontent.com/8c80a2f03d32edc6cafad47df/images/57a1c34e-2f82-c707-cf49-5785e5050d54.png" style="object-fit:cover;height:140px !important;width:100% !important;" alt="Vuela por Arequipa">
+
+              <div align="center" style="padding:20px 8px;">
+                <h2 style="color:#781878;font-size:28px;padding-bottom:20px;">Buenos Aires</h2>
+                <table>
+                  <tbody><tr>
+                    <td>
+                      <a class="btn" style="display:block;text-decoration:none!important;font-size:16px!important;font-weight:bold!important;padding:16px 24px!important;color:#fff!important;background-color:#EA3397!important;border-radius:8px!important;" href="https://www.google.com/" target="_blank">¡Ver vuelos!</a>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </div>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<style>
+  * {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    border-collapse: collapse;
+    line-height: 1;
+    border-spacing: 0;
+    margin: 0;
+    padding: 0;
+  }
+
+  .btn {
+    display: block !important;
+    text-decoration: none !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    padding: 16px 24px !important;
+    color: #fff !important;
+    background-color: #EA3397 !important;
+    border-radius: 8px !important;
+  }
+</style>
+```
+
+</details>
+
 ### Escalonado 1
 
 ![caluga escalonado 1 capture](escalonado/escalonado1.png)
